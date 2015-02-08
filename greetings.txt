@@ -11,10 +11,14 @@ Please categorise some foods:
 GOOD FOODS
 
 Lasagna
-
+pizza
+buger
 Ice cream
-
+donuts
+cake
+chocolate
 
 BAD FOODS
 
 Brussels sprouts
+everything except junk food
